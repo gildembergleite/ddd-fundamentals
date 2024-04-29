@@ -12,6 +12,7 @@
     "@types/node": "20.12.7",
     "globals": "15.1.0",
     "prettier": "3.2.5",
-    "typescript": "5.4.5"
+    "typescript": "5.4.5",
+    "vitest": "1.5.2"
   }
 }
