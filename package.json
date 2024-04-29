@@ -1,0 +1,16 @@
+{
+  "name": "ddd-fundamentals",
+  "version": "1.0.0",
+  "description": "## (English) Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gildemberg Leite <gildembergleite@gmail.com> (http://gildembergleite@gmail.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "20.12.7",
+    "typescript": "5.4.5"
+  }
+}
